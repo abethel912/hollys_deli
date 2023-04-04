@@ -1,0 +1,26 @@
+.app_navbar {
+  width:100%;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #18311D;
+  padding: 1rem 2rem;
+}
+
+h1{
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.app__nav-links{
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+
+
