@@ -53,8 +53,8 @@
 }
 
 .custom__button {
-  background-color: var(--color-crimson);
-    color: var(--color-black);
+  background-color: #457e52;
+    color: white;
     font-family: var(--font-base);
     font-weight: 700;
     letter-spacing: 0.04em;
