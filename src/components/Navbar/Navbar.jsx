@@ -7,6 +7,7 @@ const Navbar = () => {
   const [toggleMenu, setToggleMenu] = React.useState(false);
   return (
     <nav className="app__navbar">
+      <h1>Holly's Deli</h1>
       <div className="app__navbar-logo">
       </div>
       <ul className="app__navbar-links">
